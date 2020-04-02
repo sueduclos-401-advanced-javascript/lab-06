@@ -1,0 +1,20 @@
+{
+  "name": "lab-06",
+  "version": "1.0.0",
+  "description": "Code 401 Lab 06 HTTP and REST - simple server API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sueduclos-401-advanced-javascript/lab-06.git"
+  },
+  "author": "Sue Duclos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sueduclos-401-advanced-javascript/lab-06/issues"
+  },
+  "homepage": "https://github.com/sueduclos-401-advanced-javascript/lab-06#readme"
+}
