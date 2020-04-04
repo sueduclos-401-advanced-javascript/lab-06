@@ -1,36 +1,20 @@
 {
   "categories": [
     {
-      "id": 1,
-      "name": "Action",
-      "display_name": "Action Movies" ,
-      "description": "A motion picture that involves fast-paced activity and conflict. Car chases, jumping out of planes, sword fights, etc."
-    },
-
-    {
       "id": 2,
-      "name": "Romance" ,
+      "name": "Romance",
       "display_name": "Romance Movies",
       "description": "A motion picture that involves romance or affection. Love stories, courtship, marriage, etc."
     },
-
-    { 
+    {
       "id": 3,
-      "name": "Comedy" ,
+      "name": "Comedy",
       "display_name": "Comedic Movies",
       "description": "A motion picture that involves humor, designed to make people laugh!"
     }
+
   ],
-
   "products": [
-    {
-      "id": 1,
-      "category": 1,
-      "name": "Die Hard",
-      "display_name": "Action Movies",
-      "description": "A motion picture that involves fast-paced activity and conflict. Car chases, jumping out of planes, sword fights, etc."
-    },
-
     {
       "id": 2,
       "category": 3,
@@ -38,7 +22,6 @@
       "display_name": "Comedic Movies",
       "description": "A motion picture that involves humor, designed to make people laugh!"
     },
-
     {
       "id": 3,
       "category": 1,
@@ -46,5 +29,5 @@
       "display_name": "Romance Movies",
       "description": "A motion picture that involves romance or affection. Love stories, courtship, marriage, etc."
     }
-  ] 
+  ]
 }
