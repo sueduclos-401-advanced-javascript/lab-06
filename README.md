@@ -5,7 +5,7 @@
 
 ### Links and Resources
 
-- [Submission PR]()
+- [Submission PR](https://github.com/sueduclos-401-advanced-javascript/lab-06/pull/1)
 - [Swagger API](https://app.swaggerhub.com/apis-docs/sueduclos/lab-06API/0.1)
 
 ### Setup
